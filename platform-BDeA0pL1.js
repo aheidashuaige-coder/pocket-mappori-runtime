@@ -1,0 +1,1 @@
+import{C as i}from"./index-BHc6ulPh.js";const a=()=>i.getPlatform()==="android";let t=!0;const n="pocket-wander:native-activity",c=()=>t;function r(e){t!==e&&(t=e,document.dispatchEvent(new Event(n)))}export{n as NATIVE_ACTIVITY,a as isAndroidNative,c as nativeIsActive,r as setNativeActive};
