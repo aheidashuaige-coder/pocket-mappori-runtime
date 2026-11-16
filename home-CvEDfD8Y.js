@@ -1,1 +1,0 @@
-import{j as s,a3 as i}from"./application-BAdagfOj-fix2.js";import{bL as m}from"./saveDocument-1KD8mP7n-fix2.js";function t({powers:l}){return s.jsx("ul",{className:"meal-power-list","aria-label":"食力",children:l.map(({power:a,type:r,level:e})=>s.jsxs("li",{children:[s.jsx("strong",{children:m[a]}),r&&s.jsx(i,{type:r}),s.jsxs("small",{children:["Lv.",e]})]},a))})}export{t as M};

@@ -1,0 +1,1 @@
+import{j as s,ac as i}from"./application-BMMUDZNB-1760.js";import{c7 as m}from"./saveDocument-Bcx44GUG-1760.js";function t({powers:l}){return s.jsx("ul",{className:"meal-power-list","aria-label":"食力",children:l.map(({power:a,type:r,level:e})=>s.jsxs("li",{children:[s.jsx("strong",{children:m[a]}),r&&s.jsx(i,{type:r}),s.jsxs("small",{children:["Lv.",e]})]},a))})}export{t as M};

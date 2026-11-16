@@ -1,6 +1,7 @@
 # Pocket Mappori iOS Runtime
 
-This repository contains only the JavaScript, CSS, and two avatar images required by the Pocket Mappori iOS web runtime.
+This repository contains the JavaScript, CSS, and two avatar images required by
+the Pocket Mappori 1.7.6.0 iOS web runtime.
 
 Large map packs, sprites, audio, and other static resources remain in the main GitHub Pages repository:
 
