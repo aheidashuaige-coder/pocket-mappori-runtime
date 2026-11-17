@@ -1,7 +1,7 @@
 window.__pocketStartupTrace = window.__pocketStartupTrace || [];
 window.__pocketStartupIssues = window.__pocketStartupIssues || [];
 
-const APP_FILE = "application-uVaYIh_a-1765.js";
+const APP_FILE = "application-uVaYIh_a-1765-lugia.js";
 const HEALTH_FILE = "health-1765.json";
 const COMMIT = "main";
 const CDN_BASES = [
