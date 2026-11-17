@@ -1,0 +1,1 @@
+import{ad as t,ae as h}from"./saveDocument-Ctox3bXW-1765.js";function k(s,u){var c,d,i,o,a;const n=(d=(c=s.home)==null?void 0:c.cuisine)==null?void 0:d.unlocked,e=(o=(i=u.home)==null?void 0:i.cuisine)==null?void 0:o.unlocked.find(l=>!(n!=null&&n.includes(l)));return e===void 0||(a=t(h(e)))==null?void 0:a.name}export{k as n};
